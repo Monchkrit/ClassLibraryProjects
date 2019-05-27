@@ -1,0 +1,17 @@
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibraryTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibraryTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibraryTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibraryTest\bin\Release\netcoreapp2.1\StringLibraryTest.deps.json
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibraryTest\bin\Release\netcoreapp2.1\StringLibraryTest.runtimeconfig.json
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibraryTest\bin\Release\netcoreapp2.1\StringLibraryTest.runtimeconfig.dev.json
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibraryTest\bin\Release\netcoreapp2.1\StringLibraryTest.dll
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibraryTest\bin\Release\netcoreapp2.1\StringLibraryTest.pdb
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibraryTest\bin\Release\netcoreapp2.1\StringLibrary.dll
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibraryTest\bin\Release\netcoreapp2.1\StringLibrary.pdb
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibraryTest\obj\Release\netcoreapp2.1\StringLibraryTest.vbprojAssemblyReference.cache
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibraryTest\obj\Release\netcoreapp2.1\StringLibraryTest.vbproj.CoreCompileInputs.cache
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibraryTest\obj\Release\netcoreapp2.1\StringLibraryTest.AssemblyInfoInputs.cache
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibraryTest\obj\Release\netcoreapp2.1\StringLibraryTest.AssemblyInfo.vb
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibraryTest\obj\Release\netcoreapp2.1\StringLibraryTest.vbproj.CopyComplete
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibraryTest\obj\Release\netcoreapp2.1\StringLibraryTest.dll
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibraryTest\obj\Release\netcoreapp2.1\StringLibraryTest.pdb

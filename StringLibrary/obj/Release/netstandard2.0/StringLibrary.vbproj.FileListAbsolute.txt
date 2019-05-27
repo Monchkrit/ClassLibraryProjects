@@ -1,0 +1,8 @@
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibrary\bin\Release\netstandard2.0\StringLibrary.deps.json
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibrary\bin\Release\netstandard2.0\StringLibrary.dll
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibrary\bin\Release\netstandard2.0\StringLibrary.pdb
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibrary\obj\Release\netstandard2.0\StringLibrary.vbproj.CoreCompileInputs.cache
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibrary\obj\Release\netstandard2.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibrary\obj\Release\netstandard2.0\StringLibrary.AssemblyInfo.vb
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibrary\obj\Release\netstandard2.0\StringLibrary.dll
+C:\Users\monch\source\repos\ClassLibraryProjects\StringLibrary\obj\Release\netstandard2.0\StringLibrary.pdb
